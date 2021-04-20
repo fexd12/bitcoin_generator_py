@@ -1,0 +1,2 @@
+starkbank-ecdsa==0.1.4
+psycopg2-binary

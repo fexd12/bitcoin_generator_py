@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pickles
+Version: 0.1.1
+Summary: A wrapper around the pickle package
+Home-page: https://github.com/nadavborenstein/SuperPickle
+Author: Nadav Borenstein
+License: Apache
+Download-URL: https://pypi.org/project/pickles/
+Keywords: pickle,pickles
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# SuperPickle
+A wraper around the famous pickle package
+
+
